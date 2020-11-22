@@ -2,7 +2,7 @@
 
 Database Purpose:
 
-This database is built for a cloud computing platform that allows users to rent virtual machines to execute code for computer applications and computations. It serves the purpose of maintaining the cloud resources of the company like MachineImages, Instances, Storage etc. It provides security by encrypting sensitive information like User’s Passwords and their Card Details. It automatically creates a bill and executes a transaction once the user stops using an Instance. It is built with the intuition that the users have the ability to configure their own virtual machines and request for additional infrastructure for a specified price. Overall, this database facilitates data collection, processing, billing, transactions and reporting of various processes in this business environment.
+This database is built for a cloud computing platform that allows users to rent virtual machines to execute computer applications and computations. It serves to maintain the company's cloud resources like MachineImages, Instances, Storage, etc. It provides security by encrypting sensitive information like Users' passwords and their Card Details. It automatically creates a bill and executes a transaction once the user stops using an Instance. It is built with the intuition that the users can configure their own virtual machines and request additional infrastructure for a specified price. Overall, this database facilitates data collection, processing, billing, transactions and reporting of various processes in this business environment.
 
 Business Problems Addressed:
 
@@ -10,7 +10,7 @@ Business Problems Addressed:
 
 ●	Provide a database to collect and monitor user data
 
-●	Offer encryption and safe storage of user’s card details
+●	Offer encryption and safe storage of user's card details
 
 ●	Allows users to select Machine Images and Instance of their choice
 
